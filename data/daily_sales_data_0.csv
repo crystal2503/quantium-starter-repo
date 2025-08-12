@@ -1,5 +1,4 @@
 product,price,quantity,date,region
-pink morsel,$3.00,546,2018-02-06,north
 pink morsel,$3.00,549,2018-02-06,south
 pink morsel,$3.00,577,2018-02-06,east
 pink morsel,$3.00,519,2018-02-06,west
@@ -13719,3 +13718,4 @@ lapis morsel,$1.99,521,2019-06-10,north
 lapis morsel,$1.99,502,2019-06-10,south
 lapis morsel,$1.99,536,2019-06-10,east
 lapis morsel,$1.99,515,2019-06-10,west
+,,,,
